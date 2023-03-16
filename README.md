@@ -43,7 +43,7 @@ Thanks for visiting my GitHub profile, it's great to meet you here!.</h2>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/saurav-raj-2b0810232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-saurav raj?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/saurav-raj-2b0810232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-saurav20%raj?style=flat-square&logo=linkedin"></a>
 
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [Sauravrajb](https://github.com/Sauravrajb)
