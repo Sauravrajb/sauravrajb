@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2>Hi there
-Thanks for visiting my GitHub profile, it's great to meet you here!.</h2>
+<h2>Hi there,</h2>
+<h2>Thanks for visiting my GitHub profile, it's great to meet you here!.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
